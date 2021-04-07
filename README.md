@@ -16,7 +16,7 @@ Having a growth mindset is realizing that although you are going to fail ***ALOT
 
 In the words of the great Albert Einstein:
 
-  >"Anyone who has never made a mistake has never tried anything new." -- Albert Einstein
+  >"Anyone who has never made a mistake has never tried anything new."
   
 You can read a fantastic article on [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) here.
 
