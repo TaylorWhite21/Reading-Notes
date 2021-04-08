@@ -23,5 +23,5 @@ You can read a fantastic article on [growth mindset](https://www.atlassian.com/b
 ![Steve](https://izquotes.com/quotes-pictures/quote-here-s-to-the-crazy-ones-the-misfits-the-rebels-the-troublemakers-the-round-pegs-in-the-square-steve-jobs-283977.jpg)
 
 ## Notes and further readings
-[The Coder's Computer](https://github.com/TaylorWhite21/Reading-Notes/blob/main/CodersComputer.md)
+[The Coder's Computer](https://github.com/TaylorWhite21/Reading-Notes/blob/main/CodersComputer.md)  
 [Learning Markdown](https://github.com/TaylorWhite21/Reading-Notes/blob/main/markdown_notes.md)
