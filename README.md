@@ -26,3 +26,5 @@ You can read a fantastic article on [growth mindset](https://www.atlassian.com/b
 [The Coder's Computer](https://github.com/TaylorWhite21/Reading-Notes/blob/main/coderscomputer.md)  
 [Learning Markdown](https://github.com/TaylorWhite21/Reading-Notes/blob/main/markdown_notes.md)  
 [Tools and Terminal Notes](https://github.com/TaylorWhite21/Reading-Notes/blob/main/terminal_notes.md)  
+
+This is a test addition using git.
