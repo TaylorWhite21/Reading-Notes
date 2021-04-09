@@ -9,3 +9,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [The Coder's Computer](https://taylorwhite21.github.io/Reading-Notes/coderscomputer)  
 [Learning Markdown](https://taylorwhite21.github.io/Reading-Notes/markdown_notes)  
 [Tools and Terminal Notes](https://taylorwhite21.github.io/Reading-Notes/terminal_notes)  
+[Git and Github notes](https://taylorwhite21.github.io/Reading-Notes/git_and_git_hub_notes)  
