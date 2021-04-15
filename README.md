@@ -13,3 +13,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [HTML Notes](html-notes.md)  
 [CSS Notes](css.md)  
 [JavaScript Notes](javascript-notes.md)  
+[Scripts and Functions](scripts-functions.md)
