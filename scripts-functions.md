@@ -19,7 +19,7 @@ a series of tasks and then work out each step needed
 to complete that task (a flowchart can help).
 
 ## Arithmetic Table
-[table](https://www.miltonmarketing.com/wp-content/uploads/2018/04/jsarithimage029-1200x432.jpg)
+![table](https://www.miltonmarketing.com/wp-content/uploads/2018/04/jsarithimage029-1200x432.jpg)
 
 ## Functions
 ```
