@@ -17,4 +17,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Operators and Loops](operators-and-loops.md)  
 
 ## Code 201 Notes
-[Intro to HTML and Javascript](class-01.md)
+[Intro to HTML and Javascript](class-01.md)  
+[Basics of HTML, CSS & JS](class-02.md)  
