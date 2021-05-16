@@ -23,3 +23,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [HTML Links, JS Functions, and Intro to CSS Layout](201/class-04.md)  
 [HTML Images; CSS Color & Text](201/class-05.md)  
 [Problem Domain, Objects, and the DOM](201/class-06.md)
+[HTML Table JS Constructor Functions](201/calss-07.md)
