@@ -27,5 +27,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Frameworks](201/class-08.md)  
 [Forms](201/class-09.md)  
 [Javascript Debugging](201/class-10.md)  
-[Images](201/class-11.md)
+[Images](201/class-11.md)  
 [Chart.js](201/class-12.md)
