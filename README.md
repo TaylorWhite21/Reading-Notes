@@ -30,3 +30,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Images](201/class-11.md)  
 [Chart.js](201/class-12.md)  
 [Local Storage](201/class-13.md)  
+[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b.md)  
