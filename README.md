@@ -4,7 +4,7 @@
 
 My name is Taylor White. I started in the tech industry in 2008 when I joined the army as a Network Engineer and have recently started coding and found that my dream of becoming a game developer is not nearly as hard as I thought. My goals are to become a game developer, either with a known studio or to start my own, and to eventually open a charity to teach underpriviledged children computer and coding skills to provide them with a competitive advantage in a world that is becoming more reliant on tech.
 
-## Code 102 Notes
+## Code 102 - Intro to Software Development
 [What it means to have a Growth Mindset](102/growth_mindset.md)  
 [The Coder's Computer](102/coderscomputer.md)  
 [Learning Markdown](102/markdown_notes.md)  
@@ -16,7 +16,7 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Scripts and Functions](102/scripts-functions.md)  
 [Operators and Loops](102/operators-and-loops.md)  
 
-## Code 201 Notes
+## Code 201 - Foundations of Software Development
 [Intro to HTML and Javascript](201/class-01.md)  
 [Basics of HTML, CSS & JS](201/class-02.md)  
 [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)  
@@ -32,3 +32,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Local Storage](201/class-13.md)  
 [CSS Animations, Transforms, Transitions](201/class-14a.md)  
 [What Google Learned From Its Quest to Build the Perfect Team](201/class-14b.md)   
+
+## Code 301 - Intermediate Software Development
