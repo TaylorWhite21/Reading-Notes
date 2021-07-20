@@ -35,5 +35,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 
 ## Code 301 - Intermediate Software Development
 [Introduction to React and Components](301/class-01.md)  
-[State and Props](301/class-02.md)
-
+[State and Props](301/class-02.md)  
+[Passing Functions as Props](301/class-03.md)  
