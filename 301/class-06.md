@@ -16,3 +16,18 @@
     - npm install -g jshint
 8. What is node used for?
     - Anything from bundling your JavaScript files and dependencies into static assets, to running tests, or automatic code linting and style checking.
+
+## [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)  
+
+1. What are the 6 reasons for pair programming?
+    - Greater efficiency
+    - Engaged collaboration
+    - Learning from fellow students
+    - Social skills
+    - Job interview readiness
+    - Work environment readiness
+
+2. In your experience, which of these reasons have you found most beneficial?
+    - In my experience, greater efficiency and learning from fellow students are the most beneficial.
+3. How does pair programming work?
+    - Pair programming works on the idea of "two heads are better than one". It allows multiple ways of looking at a problem and having people with different areas of expertise work on issue with better results.  
