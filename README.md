@@ -39,3 +39,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Passing Functions as Props](301/class-03.md)  
 [React and Forms](301/class-04.md)  
 [Putting it all together](301/class-05.md)  
+[NODE.js](301/class-06.md)    
