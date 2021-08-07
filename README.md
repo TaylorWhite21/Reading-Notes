@@ -41,3 +41,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Putting it all together](301/class-05.md)  
 [NODE.js](301/class-06.md)  
 [REST](301/class-07.md)  
+[APIs](301/class-08.md)  
