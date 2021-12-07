@@ -47,3 +47,7 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [What is OAuth?](301/class-11.md)  
 
 ## Code 401 - Advanced Software Development
+[TDD-Test-Driven Development](401/class-02-TDD.md)  
+[if name equals main](401/class-02-If-name-equals-main.md)  
+[Recursion](401/class-02-recursion.md)  
+
