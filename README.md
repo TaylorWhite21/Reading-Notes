@@ -50,4 +50,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [TDD-Test-Driven Development](401/class-02-TDD.md)  
 [if name equals main](401/class-02-If-name-equals-main.md)  
 [Recursion](401/class-02-recursion.md)  
+[Classes and Objects](401/class-04-Classes-and-objects.md)  
 
