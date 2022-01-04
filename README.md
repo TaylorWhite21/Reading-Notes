@@ -52,4 +52,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Recursion](401/class-02-recursion.md)  
 [Classes and Objects](401/class-04-Classes-and-objects.md)  
 [Random and Risk Analysis](401/class-05-Game-of-Greed-1.md)  
+[List Comprehension](401/class-08-list-comprehension.md)  
 
