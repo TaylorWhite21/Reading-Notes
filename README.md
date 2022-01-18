@@ -55,4 +55,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [List Comprehension](401/class-08-list-comprehension.md)  
 [Dunder Methods and Probability Statistics in Python](401/class-09-Dunder-Methods-and-Statistics.md)  
 [Data Analysis](401/class-11-Numpy.md) 
-
+[Pandas](401/class-12-Pandas.md) 
