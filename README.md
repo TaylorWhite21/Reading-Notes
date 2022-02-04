@@ -59,3 +59,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Linear Regression](401/class-13-Linear-Regressions.md)  
 [Madplotlib](401/class-14-madplotlib.md)  
 [Serverless Computing](401/class-15-serverless-computing.md)  
+[Web Scraping](401/class-16-web-scraping.md)  
