@@ -61,3 +61,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Serverless Computing](401/class-15-serverless-computing.md)  
 [Web Scraping](401/class-16-web-scraping.md)  
 [Cryptography](401/class-18-cryptography.md)  
+[Python Regular Expression](401/class-19-python-regex.md)  
