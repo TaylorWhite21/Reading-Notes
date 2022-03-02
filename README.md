@@ -63,3 +63,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Cryptography](401/class-18-cryptography.md)  
 [Python Regular Expression](401/class-19-python-regex.md)  
 [Intro to Django](401/class-26-django.md)  
+[Django Models](401/django-models.md)  
