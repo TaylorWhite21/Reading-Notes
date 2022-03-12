@@ -66,3 +66,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Django Models](401/django-models.md)  
 [Django Forms](401/class-28-django-forms.md)  
 [Django Custom User Model](401/class-29-custom-user-model.md)  
+[Hash Tables](401/class-30-hash-tables.md)  
