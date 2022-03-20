@@ -68,3 +68,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Django Custom User Model](401/class-29-custom-user-model.md)  
 [Hash Tables](401/class-30-hash-tables.md)  
 [Docker](401/class-31-Docker.md)   
+[Permissions & Postgresql](401/class-32-Permissions-Postgresql.md)  
