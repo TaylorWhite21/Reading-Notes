@@ -13,6 +13,7 @@ Here is some common terminology used when working with Graphs:
 An Undirected Graph is a graph where each edge is undirected or bi-directional. This means that the undirected graph does not move in any direction.
 
 For example, in the graph below, `Node C` is connected to `Node A`, `Node E` and `Node B`. There are no “directions” given to point to specific vertices. The connection is bi-directional.
+
 ![Undiracted Graph](UndirectedGraph.png)
 
 ## Directed Graphs (Digraph)
@@ -33,6 +34,7 @@ There are 3 types pf graphs:
 ## Complete Graphs
 
 A complete graph is when all nodes are connected to all other nodes.
+
 ![CompleteGraph](CompleteGraph.png)
 
 ## Connected Graphs
