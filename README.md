@@ -71,3 +71,4 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Permissions & Postgresql](401/class-32-Permissions-Postgresql.md)  
 [Authentication & Production Server](401/class-33-Authentication-Production-Server.md)  
 [Graphs](401/class-35-graphs.md)  
+[DSA Review](401/class-36-DSA-Review.md)  
