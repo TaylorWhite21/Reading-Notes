@@ -1,10 +1,9 @@
-
-
 ## Welcome to my Reading Notes for Code Fellows
 
 My name is Taylor White. I started in the tech industry in 2008 when I joined the army as a Network Engineer and have recently started coding and found that my dream of becoming a game developer is not nearly as hard as I thought. My goals are to become a game developer, either with a known studio or to start my own, and to eventually open a charity to teach underpriviledged children computer and coding skills to provide them with a competitive advantage in a world that is becoming more reliant on tech.
 
 ## Code 102 - Intro to Software Development
+
 [What it means to have a Growth Mindset](102/growth_mindset.md)  
 [The Coder's Computer](102/coderscomputer.md)  
 [Learning Markdown](102/markdown_notes.md)  
@@ -14,9 +13,10 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [CSS Notes](102/css.md)  
 [JavaScript Notes](102/javascript-notes.md)  
 [Scripts and Functions](102/scripts-functions.md)  
-[Operators and Loops](102/operators-and-loops.md)  
+[Operators and Loops](102/operators-and-loops.md)
 
 ## Code 201 - Foundations of Software Development
+
 [Intro to HTML and Javascript](201/class-01.md)  
 [Basics of HTML, CSS & JS](201/class-02.md)  
 [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)  
@@ -31,9 +31,10 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Chart.js](201/class-12.md)  
 [Local Storage](201/class-13.md)  
 [CSS Animations, Transforms, Transitions](201/class-14a.md)  
-[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b.md)   
+[What Google Learned From Its Quest to Build the Perfect Team](201/class-14b.md)
 
 ## Code 301 - Intermediate Software Development
+
 [Introduction to React and Components](301/class-01.md)  
 [State and Props](301/class-02.md)  
 [Passing Functions as Props](301/class-03.md)  
@@ -44,9 +45,10 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [APIs](301/class-08.md)  
 [Functional Programming Concepts](301/class-09.md)  
 [Understanding the JavaScript Call Stack](301/class-10.md)  
-[What is OAuth?](301/class-11.md)  
+[What is OAuth?](301/class-11.md)
 
 ## Code 401 - Advanced Software Development
+
 [TDD-Test-Driven Development](401/class-02-TDD.md)  
 [if name equals main](401/class-02-If-name-equals-main.md)  
 [Recursion](401/class-02-recursion.md)  
@@ -54,8 +56,8 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Random and Risk Analysis](401/class-05-Game-of-Greed-1.md)  
 [List Comprehension](401/class-08-list-comprehension.md)  
 [Dunder Methods and Probability Statistics in Python](401/class-09-Dunder-Methods-and-Statistics.md)  
-[Data Analysis](401/class-11-Numpy.md) 
-[Pandas](401/class-12-Pandas.md) 
+[Data Analysis](401/class-11-Numpy.md)
+[Pandas](401/class-12-Pandas.md)
 [Linear Regression](401/class-13-Linear-Regressions.md)  
 [Madplotlib](401/class-14-madplotlib.md)  
 [Serverless Computing](401/class-15-serverless-computing.md)  
@@ -67,8 +69,9 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Django Forms](401/class-28-django-forms.md)  
 [Django Custom User Model](401/class-29-custom-user-model.md)  
 [Hash Tables](401/class-30-hash-tables.md)  
-[Docker](401/class-31-Docker.md)   
+[Docker](401/class-31-Docker.md)  
 [Permissions & Postgresql](401/class-32-Permissions-Postgresql.md)  
 [Authentication & Production Server](401/class-33-Authentication-Production-Server.md)  
 [Graphs](401/class-35-graphs.md)  
 [DSA Review](401/class-36-DSA-Review.md)  
+[React 2](401/class-38-React-2.md)
