@@ -75,4 +75,5 @@ My name is Taylor White. I started in the tech industry in 2008 when I joined th
 [Graphs](401/class-35-graphs.md)  
 [DSA Review](401/class-36-DSA-Review.md)  
 [React 2](401/class-38-React-2.md)  
-[React 3](401/class-39-react-3.md)
+[React 3](401/class-39-react-3.md)  
+[React 4](401/class-41-React-4.md)
